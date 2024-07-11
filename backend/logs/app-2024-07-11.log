@@ -1,0 +1,76 @@
+2024-07-10T19:35:37.281Z [INFO]: ::1 - - [10/Jul/2024:19:35:37 +0000] "POST /api/login HTTP/1.1" 404 26 "-" "PostmanRuntime/7.40.0"
+2024-07-10T19:35:44.427Z [INFO]: ::1 - - [10/Jul/2024:19:35:44 +0000] "POST /api/login HTTP/1.1" 200 503 "-" "PostmanRuntime/7.40.0"
+2024-07-10T19:36:02.326Z [INFO]: ::1 - - [10/Jul/2024:19:36:02 +0000] "GET /api/user HTTP/1.1" 200 269 "-" "PostmanRuntime/7.40.0"
+2024-07-10T19:38:09.824Z [ERROR]: Error: User not found
+2024-07-10T19:38:09.861Z [INFO]: ::1 - - [10/Jul/2024:19:38:09 +0000] "POST /api/login HTTP/1.1" 404 26 "-" "PostmanRuntime/7.40.0"
+2024-07-10T19:38:42.568Z [ERROR]: Error: User not found
+2024-07-10T19:38:42.614Z [INFO]: ::1 - - [10/Jul/2024:19:38:42 +0000] "POST /api/login HTTP/1.1" 404 26 "-" "PostmanRuntime/7.40.0"
+2024-07-10T19:46:14.720Z [ERROR]: Error: User not found
+2024-07-10T19:46:14.758Z [INFO]: ::1 - - [10/Jul/2024:19:46:14 +0000] "POST /api/login HTTP/1.1" 404 26 "-" "PostmanRuntime/7.40.0"
+2024-07-10T19:48:29.904Z [INFO]: Root route accessed
+2024-07-10T19:48:29.975Z [ERROR]: Error: User not found
+2024-07-10T19:48:30.002Z [INFO]: ::1 - - [10/Jul/2024:19:48:30 +0000] "POST /api/login HTTP/1.1" 404 26 "-" "PostmanRuntime/7.40.0"
+undefined [INFO]: Root route accessed
+undefined [ERROR]: Error: User not found
+undefined [INFO]: ::1 - - [10/Jul/2024:19:48:55 +0000] "POST /api/login HTTP/1.1" 404 26 "-" "PostmanRuntime/7.40.0"
+ [INFO]: Root route accessed
+ [ERROR]: Error: User not found
+ [INFO]: ::1 - - [10/Jul/2024:19:49:14 +0000] "POST /api/login HTTP/1.1" 404 26 "-" "PostmanRuntime/7.40.0"
+2024-07-10T19:49:24.212Z [INFO]: Root route accessed
+2024-07-10T19:49:24.249Z [ERROR]: Error: User not found
+2024-07-10T19:49:24.257Z [INFO]: ::1 - - [10/Jul/2024:19:49:24 +0000] "POST /api/login HTTP/1.1" 404 26 "-" "PostmanRuntime/7.40.0"
+undefined [INFO]: Root route accessed
+undefined [ERROR]: Error: User not found
+undefined [INFO]: ::1 - - [10/Jul/2024:19:49:37 +0000] "POST /api/login HTTP/1.1" 404 26 "-" "PostmanRuntime/7.40.0"
+{
+  message: 'Root route accessed',
+  level: 'info',
+  timestamp: '2024-07-10T19:59:36.482Z'
+}
+{
+  message: 'Error: User not found',
+  level: 'error',
+  timestamp: '2024-07-10T19:59:36.557Z'
+}
+{
+  message: '::1 - - [10/Jul/2024:19:59:36 +0000] "POST /api/login HTTP/1.1" 404 26 "-" "PostmanRuntime/7.40.0"',
+  level: 'info',
+  timestamp: '2024-07-10T19:59:36.586Z'
+}
+{
+  message: 'Root route accessed',
+  level: 'info',
+  timestamp: '2024-07-10T19:59:51.031Z'
+}
+{
+  message: 'Error: User not found',
+  level: 'error',
+  timestamp: '2024-07-10T19:59:51.125Z'
+}
+{
+  message: '::1 - - [10/Jul/2024:19:59:51 +0000] "POST /api/login HTTP/1.1" 404 26 "-" "PostmanRuntime/7.40.0"',
+  level: 'info',
+  timestamp: '2024-07-10T19:59:51.165Z'
+}
+{"level":"info","message":"Root route accessed","timestamp":"2024-07-10T20:04:46.700Z"}
+{"level":"error","message":"Error: User not found","timestamp":"2024-07-10T20:04:46.732Z"}
+{"level":"info","message":"Root route accessed","timestamp":"2024-07-10T20:09:08.390Z"}
+{"level":"error","message":"Error: ","timestamp":"2024-07-10T20:09:08.443Z"}
+{"level":"info","message":"Root route accessed","timestamp":"2024-07-10T20:09:21.263Z"}
+{"level":"error","message":"Error: ","timestamp":"2024-07-10T20:09:21.336Z"}
+{
+  message: 'Root route accessed',
+  level: 'info',
+  timestamp: '2024-07-10T20:09:42.598Z'
+}
+{
+  message: 'Error: ',
+  level: 'error',
+  timestamp: '2024-07-10T20:09:42.723Z'
+}
+{"level":"info","message":"Root route accessed","timestamp":"2024-07-10T20:11:27.175Z"}
+{"level":"error","message":"Error: ","timestamp":"2024-07-10T20:11:27.220Z"}
+{"level":"error","message":"Error: User not found","timestamp":"2024-07-10T20:12:30.651Z"}
+{"level":"error","message":"Error1: User not found","timestamp":"2024-07-10T20:12:58.022Z"}
+{"level":"error","message":"Error1: User not found","timestamp":"2024-07-10T20:13:27.734Z"}
+{"level":"error","message":"Error1: User not found","timestamp":"2024-07-10T20:14:00.864Z"}
